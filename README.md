@@ -1,4 +1,4 @@
-### Hi there 👋
+### 공유경제 06들
 
 <!--
 **gongyu06/gongyu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
